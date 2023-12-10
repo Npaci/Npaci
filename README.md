@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Npaci
 - 👀 I’m interested in Java programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me tipspaci@gmail.com
 
